@@ -1,4 +1,4 @@
-package lowLevelPatterns.StrategyPattern.Drive
+package lowLevelPatterns.strategyPattern.drive
 
 class NormalDriveStrategy : DriveStrategy {
     override fun drive() {

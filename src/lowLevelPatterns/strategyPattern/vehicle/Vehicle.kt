@@ -1,6 +1,6 @@
-package lowLevelPatterns.StrategyPattern.Vehicle
+package lowLevelPatterns.strategyPattern.vehicle
 
-import lowLevelPatterns.StrategyPattern.Drive.DriveStrategy
+import lowLevelPatterns.strategyPattern.drive.DriveStrategy
 
 /** construct injection */
 public open class Vehicle(private val driveObject: DriveStrategy){
