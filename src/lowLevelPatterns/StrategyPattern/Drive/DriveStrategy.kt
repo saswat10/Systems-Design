@@ -1,4 +1,4 @@
-package LLD.StrategyPattern.Drive
+package lowLevelPatterns.StrategyPattern.Drive
 
 public interface DriveStrategy {
     public fun drive(): Unit

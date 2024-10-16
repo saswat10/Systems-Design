@@ -1,4 +1,4 @@
-package LLD.StrategyPattern.Drive
+package lowLevelPatterns.StrategyPattern.Drive
 
 class SportsDriveStrategy: DriveStrategy {
     override fun drive() {

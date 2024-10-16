@@ -1,4 +1,4 @@
-package LLD.StrategyPattern.Drive
+package lowLevelPatterns.StrategyPattern.Drive
 
 class NormalDriveStrategy : DriveStrategy {
     override fun drive() {
