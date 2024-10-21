@@ -1,5 +1,5 @@
-package lowLevelPatterns.examples.tictactoe
+package lowLevelPatterns.examples.tictactoe.models
 
-open class PlayingPiece(open val pieceType: PieceType) {
+open class PlayingPiece(val pieceType: PieceType) {
 
 }

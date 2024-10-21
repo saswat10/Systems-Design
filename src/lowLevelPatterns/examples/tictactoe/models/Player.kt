@@ -1,4 +1,3 @@
 package lowLevelPatterns.examples.tictactoe.models
 
-class Player {
-}
+class Player(var name: String, var playingPiece: PlayingPiece)

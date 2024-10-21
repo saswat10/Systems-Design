@@ -1,4 +1,4 @@
 package lowLevelPatterns.examples.tictactoe.models
 
-class PlayingPieceX {
-}
+class PlayingPieceX : PlayingPiece(PieceType.X)
+
